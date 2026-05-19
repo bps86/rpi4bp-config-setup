@@ -7,3 +7,4 @@ sudo nano /etc/yum.repos.d/fedora-updates.repo
 sudo dnf update
 sudo dnf group install development-tools
 sudo dnf install libmad-devel opusfile-devel
+sudo dnf install wayfire
